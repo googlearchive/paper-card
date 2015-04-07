@@ -12,7 +12,8 @@
     "quick-element": "polymer/quick-element"
   },
   "dependencies": {
-    "polymer": "polymer/polymer",
-    "paper-shadow": "polymer/paper-shadow#0.8-preview"
+    "polymer": "polymer/polymer#0.8",
+    "paper-shadow": "polymer/paper-shadow#0.8-preview",
+    "paper-card": "polymer/paper-card"
   }
 }
